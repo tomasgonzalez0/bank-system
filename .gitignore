@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Build
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# React / Node
+node_modules/
+dist/
+build/
+
+# Config
+appsettings.Development.json
+.env
